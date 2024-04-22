@@ -1,0 +1,1 @@
+12-hour hackathon hosted by SiSC (Sindicatul Studentilor din Cibernetica). The theme for this hackathon was the management of seats in a cinema and the technologies used were ReactJS, NodeJS with ExpressJS and MySQL with Sequelize for the database.
